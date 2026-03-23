@@ -4,7 +4,7 @@ Better ways to type efficiently on smaller keyboards, such as a TV remote. This 
 
 ## Overview
 
-Typing on devices with minimal input options—like TVs with remotes—is often slow and frustrating. Most solutions rely on **voice recognition** or **gaze tracking**, but what if we could improve text input using just the arrow keys?
+Typing on devices with minimal input options, like TVs with remotes, is often slow and frustrating. Most solutions rely on **voice recognition** or **gaze tracking**, but what if we could improve text input using just the arrow keys?
 
 This project investigates a **decision-tree based input method** for QWERTY-style keyboards mapped to a remote control. It calculates **keystrokes needed per string** and compares traditional TV input with optimized methods.
 
